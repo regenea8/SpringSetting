@@ -12,7 +12,7 @@
 	</appender>
 	 
 	<appender name="filelog" class="org.apache.log4j.DailyRollingFileAppender">
-		<param name="file" value="C:/Setting/out.log"/>
+		<param name="file" value="C:/Logs/Setting/out.log"/>
 		<param name="Append" value="true"/>
 		<param name="Target" value="System.out" />
 		<layout class="org.apache.log4j.PatternLayout">
