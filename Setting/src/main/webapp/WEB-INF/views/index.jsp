@@ -10,13 +10,25 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<style type="text/css">
+
+</style>
 <script type="text/javascript">
 
 </script>
 </head>
 <body>
+<div class="wrap">
+	<div class="top"></div>
+	<div class="middel">
+	
+		
+	
+	</div>
+	<div class="footer"></div>
+</div>
+<script type="text/javascript">
 
-index
-
+</script>
 </body>
 </html>
